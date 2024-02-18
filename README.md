@@ -6,6 +6,9 @@ Welcome to the Crypto Mining Dashboard! This sleek graphical user interface (GUI
 
 *windows only for now , will be making other OS distributions* 
 
+⚠️ **Note:** Due to the nature of the code referencing ccminer and crypto mining aspects, it's possible that antivirus software may flag the Crypto Mining Dashboard executable. However, similar to ccminer, the flagged status does not indicate the presence of any viruses or malicious code. You're welcome to review the source code yourself for verification.
+
+
 ## 🛠️ Usage
 
 1. **Download the 📦 `ccminerUI.exe` File:**  - https://github.com/1800dinky/ccminer-UI-verus-/releases/tag/Release
