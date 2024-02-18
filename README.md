@@ -7,7 +7,7 @@ Welcome to the Crypto Mining Dashboard! This sleek graphical user interface (GUI
 ## 🛠️ Usage
 
 1. **Download the 📦 `ccminerUI.exe` File:**  
-   Get your hands on the latest release of the Crypto Mining Dashboard by downloading the `mining_ui.exe` file from the Releases section of this repository.
+   Get your hands on the latest release of the Crypto Mining Dashboard by downloading the `ccminerUI.exe` file from the Releases section of this repository.
 
 2. **Place it Alongside Your 🛠️ `ccminer.exe` Client:**  
    Move the `ccminerUI.exe` file to the same directory as your trusty `ccminer.exe` client. They'll make the perfect team!
