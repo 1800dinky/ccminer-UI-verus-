@@ -41,6 +41,19 @@ Welcome to the Crypto Mining Dashboard! This sleek graphical user interface (GUI
 
 <img width="325" alt="Screenshot 2024-02-18 131012" src="https://github.com/1800dinky/ccminer-UI-verus-/assets/111404298/84b789cd-118d-465c-b927-c586cb1fc21f">
 
+## 8. 🎨 Customization Options
+
+The Crypto Mining Dashboard offers a range of customization styles to tailor your mining experience to your preferences.
+
+
+<img width="115" alt="Screenshot 2024-02-18 134534" src="https://github.com/1800dinky/ccminer-UI-verus-/assets/111404298/ce6e7b42-d52f-463d-a2b8-e688b40e30b2">
+<img width="733" alt="Screenshot 2024-02-18 134556" src="https://github.com/1800dinky/ccminer-UI-verus-/assets/111404298/fc6fefbc-a979-4e76-ac50-97f2abe9f796">
+<img width="734" alt="Screenshot 2024-02-18 134612" src="https://github.com/1800dinky/ccminer-UI-verus-/assets/111404298/6e4d8b17-2450-4e89-9482-af9dfe5751e5">
+<img width="732" alt="Screenshot 2024-02-18 134628" src="https://github.com/1800dinky/ccminer-UI-verus-/assets/111404298/d6b03827-22b9-4497-a5e0-8a55e7ed5651">
+
+
+
+
 
 ## 📝 Notes
 
