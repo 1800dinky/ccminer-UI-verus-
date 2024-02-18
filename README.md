@@ -4,6 +4,8 @@
 
 Welcome to the Crypto Mining Dashboard! This sleek graphical user interface (GUI) application is designed to supercharge your cryptocurrency mining experience with ease. Follow the steps below to get started in no time!
 
+*windows only for now , will be making other OS distributions* 
+
 ## 🛠️ Usage
 
 1. **Download the 📦 `ccminerUI.exe` File:**  
@@ -32,6 +34,12 @@ Welcome to the Crypto Mining Dashboard! This sleek graphical user interface (GUI
    Sit back and relax as the Crypto Mining Dashboard displays real-time mining output and statistics.
 
 <img width="545" alt="image" src="https://github.com/1800dinky/ccminer-UI-verus-/assets/111404298/5f83ab86-4f4d-4035-b2c0-3482ea9c1758">
+
+
+7. **Experience Seamless Performance:**  
+   Rest assured that the Crypto Mining Dashboard's intuitive user interface is designed to have minimal impact on your CPU performance. Your mining operations will run smoothly without any compromise to your hashrate.
+
+<img width="325" alt="Screenshot 2024-02-18 131012" src="https://github.com/1800dinky/ccminer-UI-verus-/assets/111404298/84b789cd-118d-465c-b927-c586cb1fc21f">
 
 
 ## 📝 Notes
